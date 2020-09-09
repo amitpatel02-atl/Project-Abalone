@@ -33,6 +33,9 @@ The data for the project comes from the UCI Machine Learning Repository: https:/
 ## Project Goal
 The goal of this project is to find the best ML and NN model to predict the number of Rings (directly related to age). This is a Supervised Learning ML challenge where Rings can be treated as a discrete (Classification) or continuous (Regression) problem.
 
+
+![](Images/Image1.PNG)
+
 * Machine Learning Models Used
   * Linear Regression Models
     * scikit-learn LinearRegression
