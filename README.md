@@ -16,3 +16,8 @@ What is an abalone? From Wikipedia, an abalone is a common name for any of a gro
 
 ## Dataset 
 The data for the project comes from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Abalone
+
+* There are 4,177 rows in the dataset with 8 attributes:
+  * 1 Categorical
+    * Sex: Values of (M)ale, (F)emale, (I)nfant
+  * 6 Continuous:
