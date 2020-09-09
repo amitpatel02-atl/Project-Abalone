@@ -8,3 +8,5 @@
 * Roopa Patel
 * Samuel Parks
 * Steven Lee
+
+Presented on: `August 18, 2020`
