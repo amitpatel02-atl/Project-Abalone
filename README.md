@@ -21,3 +21,11 @@ The data for the project comes from the UCI Machine Learning Repository: https:/
   * 1 Categorical
     * Sex: Values of (M)ale, (F)emale, (I)nfant
   * 6 Continuous:
+ * Length (mm): the longest shell measurement
+    * Diameter (mm): perpendicular to length
+    * Height (mm): with meat in shell
+    * Whole Weight (g): whole abalone
+    * Viscera Weight (g): gut weight after bleeding
+    * Shell Weight (g): after being dried
+  * 1 Integer
+    * Rings: Note that Age of the Abalone in years = Rings + 1.5 
