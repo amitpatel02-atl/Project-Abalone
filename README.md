@@ -29,3 +29,28 @@ The data for the project comes from the UCI Machine Learning Repository: https:/
     * Shell Weight (g): after being dried
   * 1 Integer
     * Rings: Note that Age of the Abalone in years = Rings + 1.5 
+
+## Project Goal
+The goal of this project is to find the best ML and NN model to predict the number of Rings (directly related to age). This is a Supervised Learning ML challenge where Rings can be treated as a discrete (Classification) or continuous (Regression) problem.
+
+* Machine Learning Models Used
+  * Linear Regression Models
+    * scikit-learn LinearRegression
+    * scikit-learn Ridge
+    * scikit-learn LASSO
+    * scikit-learn ElasticNet    
+  * Classification Models
+    * scikit-learn LogisticRegression
+    * scikit-learn KNN
+    * scikit-learn RandomForest
+    * scikit-learn SVM
+  * H2O AutoML
+  
+* Neural Network Models Used
+  * Regression Models
+    * Simple
+    * Deep
+  * Classification Models
+    * Simple
+    * Deep
+
